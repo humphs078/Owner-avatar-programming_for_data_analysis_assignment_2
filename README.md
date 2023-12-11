@@ -41,7 +41,7 @@ published climate models if atmospheric CO2 trends continue
 
 + Comment on accelerated warming based on very latest features (e.g. temperature/polar-ice-coverage)
 
-
+---
 
 ## Repository Instructions ![github logo](/images/logos/github_logo_title.png)
 
@@ -58,6 +58,9 @@ This repository can be cloned with the following git command:
 git clone https://github.com/humphs078/programming_for_data_analysis_assignment_2.git
 ```
 
+---
+
+
 ## Jupyter Notebooks ![jupyter logo](/images/logos/jupyter_logo_title.png "jupyter logo")
 
 Jupyter Notebooks are an interactive way to explain code, visualize data and share your ideas with others. Further information on Jupyter Notebooks can be found [here](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html).
@@ -67,6 +70,8 @@ To run this file in a fully interactive way the Jupyter Notebooks server must be
 This repository contains one Jupyter Notebook:
 
 + [Submission Notebook](/submission.ipynb)
+
+---
 
 ## Python Requirements ![python logo](/images/logos/python_logo_title.png "python logo")
 
